@@ -4,7 +4,7 @@ Started to port yowsup to c# a few years ago
 
 Not even sure if this is the correct branch I worked on back then.
 
-Also did the dissononce and consonance libraries. Not sure if its included in this. Will upload if I can find it.
+Also did the dissononce and consonance libraries. Not sure if its included in this. Its also incomplete (but more complete than the yowsup port as it is required by it) Will upload if I can find it.
 
 Maybe someone else will find it useful.
 
